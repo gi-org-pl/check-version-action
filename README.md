@@ -1,3 +1,5 @@
+![check-version-action header](https://raw.githubusercontent.com/gi-org-pl/check-version-action/main/.github/image/header.png)
+
 # check-version-action
 
 A GitHub Action that fails if the given version tag already exists in the repository, preventing accidental re-use of already published versions.
